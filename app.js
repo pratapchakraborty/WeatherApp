@@ -36,10 +36,6 @@ const showWeather = (data) => {
             <th>Lat:</th>
             <td><h3>${data.coord.lat}</h3></td>
         </tr>
-        <tr>
-            <th>Lat:</th>
-            <td><h3>${data.coord.lat}</h3></td>
-        </tr>
         <tr>    
             <th>Lon:</th>
             <td><h3>${data.coord.lon}</h3></td>
